@@ -1,0 +1,12 @@
+body {
+  background:            linear-gradient(to bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);;
+  background-attachment: fixed;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+h1, p, table, h3 {
+  color: white
+}
