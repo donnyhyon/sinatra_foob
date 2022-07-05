@@ -15,3 +15,7 @@ gem "rerun", "~> 0.13.1"
 gem "rspec", "~> 3.11"
 
 gem "rack", "~> 2.2"
+
+gem "spec", "~> 5.3"
+
+gem "rack-test", "~> 2.0"
