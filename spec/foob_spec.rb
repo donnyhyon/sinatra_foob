@@ -31,5 +31,4 @@ describe "Foobie tests" do
         get '/planner'
         expect(last_response.body).to include("<table")
     end
-
 end
