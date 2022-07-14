@@ -1,3 +1,3 @@
 # config.ru (run with rackup)
-require './foob'
+require './app/foob'
 run Sinatra::Application
